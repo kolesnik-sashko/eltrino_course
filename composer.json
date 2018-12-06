@@ -1,0 +1,11 @@
+{
+    "name": "kolesnik-sashko/eltrino_course",
+    "authors": [
+        {
+            "name": "Aleksandr Kolesnik",
+            "email": "kolesnik.aleksandr777@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
