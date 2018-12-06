@@ -6,6 +6,6 @@
             "email": "kolesnik.aleksandr777@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
